@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/media/root/Backup/Projects/Web Based/Non Framework/admin/admin"
+		},
+		{
+			"path": "/opt/lampp/htdocs/RHMS/client"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"2.C": "cpp"
+		}
+	}
+}
