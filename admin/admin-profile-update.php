@@ -112,7 +112,7 @@ echo"<script>alert('Your Profile Has Been Updated Successfully');</script>";
                     </div>
                   </div>
                 </form>
-                <?}?>
+                <?php }?>
               </div>
             </div>
             <!-- /form-panel -->

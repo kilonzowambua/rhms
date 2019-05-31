@@ -166,7 +166,7 @@ $stmt->close();
             </section>
           </div>
         </div>
-        <?}?>
+        <?php }?>
       </section>
       <!-- /wrapper -->
     </section>

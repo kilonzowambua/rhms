@@ -87,4 +87,4 @@
         <!-- sidebar menu end-->
       </div>
     </aside>
-    <?}?>
+    <?php }?>

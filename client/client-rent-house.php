@@ -116,7 +116,7 @@ echo"<script>alert('House Renting  Successfully Proceed To Contact Caretaker/Lan
           </label>
 									</div>
 								</div>
-							<?}?>
+							<?php }?>
 							
 																				
 
@@ -145,7 +145,7 @@ echo"<script>alert('House Renting  Successfully Proceed To Contact Caretaker/Lan
         </label>
 			
 								</div>
-								<?}?> -->
+								<?php }?> -->
 							</div>		
                                         
                                         <div class="col-sm-6 col-sm-offset-4">
@@ -182,4 +182,4 @@ echo"<script>alert('House Renting  Successfully Proceed To Contact Caretaker/Lan
 
 <!-- Mirrored from spark.bootlab.io/forms-layouts.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 May 2019 11:33:49 GMT -->
 </html>
-<?}?>
+<?php }?>

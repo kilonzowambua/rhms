@@ -102,7 +102,7 @@ echo"<script>alert('Password Updated Successfully');</script>";
                     </div>
                   </div>
                 </form>
-                <?}?>
+                <?php }?>
               </div>
             </div>
             <!-- /form-panel -->

@@ -200,7 +200,7 @@ $stmt->close();
                     <input type="submit" name="submit" Value="Send" class="btn btn-theme btn-sm">
                      
                    </form>
-                   <?}?>
+                   <?php }?>
                 </div>
               </div>
             </section>

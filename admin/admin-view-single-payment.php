@@ -144,7 +144,7 @@ check_login();
       </section>
       <!-- /wrapper -->
     </section>
-    <?}?>
+    <?php }?>
     <!-- /MAIN CONTENT -->
     <!--main content end-->
     <!--footer start-->

@@ -180,4 +180,4 @@ echo"<script>alert('Client Profile  Has Been Updated Successfully');</script>";
 </body>
 
 </html>
-<?}?>
+<?php }?>

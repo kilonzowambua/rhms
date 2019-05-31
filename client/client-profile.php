@@ -152,4 +152,4 @@ s0.parentNode.insertBefore(s1,s0);
 
 <!-- Mirrored from spark.bootlab.io/forms-layouts.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 May 2019 11:33:49 GMT -->
 </html>
-<?}?>
+<?php }?>

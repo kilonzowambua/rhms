@@ -437,7 +437,7 @@ $stmt->close();
                   </div>
                 </div>
                 <!-- /Message Panel-->
-                <?}?>
+                <?php }?>
               </div>
             </div>
            
@@ -527,7 +527,7 @@ $stmt->close();
                 </p>
               </div>
             </div>
-            <?}?>
+            <?php }?>
             <!-- CALENDAR-->
             <div id="calendar" class="mb">
               <div class="panel green-panel no-margin">
@@ -612,7 +612,7 @@ $stmt->close();
     }
   </script>
 </body>
-<?}?>
+<?php }?>
 
 </html>
 

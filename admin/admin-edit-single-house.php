@@ -104,7 +104,7 @@ echo"<script>alert('House Information  Has Been Updated Successfully');</script>
           <input type="submit" name="update" Value="Update Details" class="btn btn-warning">
           </div>
 									</form>
-                                    <?}?>
+                                    <?php }?>
             </div>
           </div>
           <!-- col-lg-12-->

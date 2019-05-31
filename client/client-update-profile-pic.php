@@ -103,4 +103,4 @@ echo"<script>alert('Your Profile Picture Has Been Updated Successfully');</scrip
 </body>
 
 </html>
-<?}?>
+<?php }?>
